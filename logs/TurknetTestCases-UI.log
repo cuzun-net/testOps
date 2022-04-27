@@ -1,0 +1,197 @@
+2022-04-27 23:14:43,933 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-27 23:14:45,786 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-27 23:14:46,007 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-27 23:14:46,215 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-27 23:14:46,324 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-27 23:14:46,477 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-27 23:14:46,660 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-27 23:14:51,892 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-27 23:14:57,004 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-27 23:14:57,005 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-27 23:15:02,125 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-27 23:15:02,125 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-27 23:15:17,489 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-27 23:15:22,605 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-27 23:15:27,718 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-27 23:15:32,825 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-27 23:15:37,927 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-27 23:15:37,927 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-27 23:15:43,041 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-27 23:15:43,041 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-27 23:15:48,143 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-27 23:15:48,144 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-27 23:15:53,249 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-27 23:15:53,250 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-27 23:15:58,350 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-27 23:15:58,350 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-27 23:16:03,448 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-27 23:16:08,545 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 00:32:57,236 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 00:32:58,855 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 00:32:59,128 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 00:32:59,318 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 00:32:59,423 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 00:32:59,567 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 00:32:59,660 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 00:32:59,876 - TurknetTestCases-UI -INFO - *** Kullanıcı hatalı email bilgisi silindi. ***
+2022-04-28 00:33:00,069 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 00:33:00,136 - TurknetTestCases-UI -INFO - *** Kullanıcı adres bilgilerine ilerledi. ***
+2022-04-28 00:33:00,136 - TurknetTestCases-UI -INFO - *** Kişisel bilgiler başarılı bir şekilde girildi. ***
+2022-04-28 00:33:05,251 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 00:33:05,251 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 00:33:10,349 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 00:33:10,349 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 00:33:25,644 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 00:33:30,747 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 00:33:35,843 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 00:33:40,937 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 00:33:46,026 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 00:33:46,026 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 00:33:51,123 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 00:33:51,124 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 00:33:56,215 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 00:33:56,215 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 00:34:01,308 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 00:34:01,309 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 00:34:06,399 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 00:34:06,399 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 00:57:06,564 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 00:57:08,302 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 00:57:08,573 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 00:57:08,737 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 00:57:08,845 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 00:57:08,983 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 00:57:09,082 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 00:57:14,326 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-28 00:57:19,442 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 00:57:19,442 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 00:57:24,555 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 00:57:24,556 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 00:57:39,879 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 00:57:44,980 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 00:57:50,085 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 00:57:55,184 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 00:58:00,278 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 00:58:00,279 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 00:58:05,380 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 00:58:05,380 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 00:58:10,477 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 00:58:10,477 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 00:58:15,579 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 00:58:15,579 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 00:58:20,673 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 00:58:20,673 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 00:58:25,776 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 00:58:30,919 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 00:59:08,431 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 00:59:09,903 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 00:59:10,097 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 00:59:10,357 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 00:59:10,467 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 00:59:10,614 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 00:59:10,708 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 00:59:15,972 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-28 00:59:21,088 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 00:59:21,088 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 00:59:26,187 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 00:59:26,187 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 00:59:41,517 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 00:59:46,625 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 00:59:51,720 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 00:59:56,822 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 01:00:01,921 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 01:00:01,921 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 01:00:07,036 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 01:00:07,036 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 01:00:12,131 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 01:00:12,131 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 01:00:17,231 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 01:00:17,231 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 01:00:22,328 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 01:00:22,328 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 01:00:27,425 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:00:32,514 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:15:48,115 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 01:15:49,698 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 01:15:50,007 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 01:15:50,198 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 01:15:50,318 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 01:15:50,571 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 01:15:50,671 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 01:15:55,909 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-28 01:16:01,018 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 01:16:01,018 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 01:16:06,135 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 01:16:06,135 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 01:16:21,447 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 01:16:26,546 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 01:16:31,637 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 01:16:36,725 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 01:16:41,814 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 01:16:41,814 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 01:16:46,906 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 01:16:46,906 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 01:16:51,996 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 01:16:51,996 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 01:16:57,094 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 01:16:57,094 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 01:17:02,185 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 01:17:02,186 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 01:17:07,280 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:17:12,373 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:24:52,607 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 01:24:54,248 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 01:24:54,413 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 01:24:54,616 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 01:24:54,726 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 01:24:55,064 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 01:24:55,203 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 01:25:00,458 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-28 01:25:05,569 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 01:25:05,569 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 01:25:10,676 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 01:25:10,676 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 01:25:26,037 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 01:25:31,138 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 01:25:36,234 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 01:25:41,324 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 01:25:46,417 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 01:25:46,417 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 01:25:51,512 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 01:25:51,513 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 01:25:56,600 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 01:25:56,600 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 01:26:01,696 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 01:26:01,696 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 01:26:06,791 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 01:26:06,791 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 01:26:11,881 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:26:16,969 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:28:16,774 - TurknetTestCases-UI -INFO - *** Turknet ana sayfası başarılı bir şekilde açıldı. ***
+2022-04-28 01:28:18,626 - TurknetTestCases-UI -INFO - *** Abone ol sayfası başarılı bir şekilde açıldı ***
+2022-04-28 01:28:18,913 - TurknetTestCases-UI -INFO - *** Kullanıcı adı soyadı girildi. ***
+2022-04-28 01:28:19,095 - TurknetTestCases-UI -INFO - *** Kullanıcı email girildi. ***
+2022-04-28 01:28:19,208 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon girildi. ***
+2022-04-28 01:28:19,473 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için checkbox işaretledi. ***
+2022-04-28 01:28:19,566 - TurknetTestCases-UI -INFO - *** Kullanıcı kvkk onayını için açılan modalı kapadı. ***
+2022-04-28 01:28:24,799 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='Geçerli bir e-posta giriniz'] bulunamadı.
+2022-04-28 01:28:29,907 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'İnternet yok')] bulunamadı.
+2022-04-28 01:28:29,907 - TurknetTestCases-UI -INFO - *** Kullanıcı internet yok seçeneğini işaretledi. ***
+2022-04-28 01:28:35,007 - TurknetTestCases-UI -INFO - Element By.xpath: //*[contains(text(), 'Telefon yok')] bulunamadı.
+2022-04-28 01:28:35,007 - TurknetTestCases-UI -INFO - *** Kullanıcı telefon yok seçeneğini işaretledi. ***
+2022-04-28 01:28:50,306 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Modem'] bulunamadı.
+2022-04-28 01:28:55,396 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemOnBilgilendirmeFormu'] bulunamadı.
+2022-04-28 01:29:00,485 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='ModemMesafeliSatisSozlesmesi'] bulunamadı.
+2022-04-28 01:29:05,573 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Statik IP'] bulunamadı.
+2022-04-28 01:29:10,664 - TurknetTestCases-UI -INFO - Element By.cssSelector: input[name='Ev Telefonu'] bulunamadı.
+2022-04-28 01:29:10,664 - TurknetTestCases-UI -INFO - *** Tercih bilgileri başarılı bir şekilde girildi. ***
+2022-04-28 01:29:15,757 - TurknetTestCases-UI -INFO - Element By.cssSelector: p[class='sc-jSgupP dInnIP'] bulunamadı.
+2022-04-28 01:29:15,757 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştir tıklandı. ***
+2022-04-28 01:29:20,845 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='select__control css-1s2u09g-control'] bulunamadı.
+2022-04-28 01:29:20,845 - TurknetTestCases-UI -INFO - *** Fatura tercihi değiştirme için dropbox listelendi. ***
+2022-04-28 01:29:25,934 - TurknetTestCases-UI -INFO - Element By.xpath: //*[text()='E-Posta'] bulunamadı.
+2022-04-28 01:29:25,934 - TurknetTestCases-UI -INFO - *** Fatura tercihi E-Posta olarak değiştirildi. ***
+2022-04-28 01:29:31,027 - TurknetTestCases-UI -INFO - Element By.cssSelector: button[class='sc-gKsewC gTsVDX'] bulunamadı.
+2022-04-28 01:29:31,027 - TurknetTestCases-UI -INFO - *** Telefon numarası doğrulama modalına yönlendirildi.
+2022-04-28 01:29:36,113 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
+2022-04-28 01:29:41,199 - TurknetTestCases-UI -INFO - Element By.cssSelector: div[class='sc-bdfBwQ jBNmKK sc-kLgntA clPJcm'] bulunamadı.
